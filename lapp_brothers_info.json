@@ -1,0 +1,20 @@
+{
+  "businessName": "Lapp Brothers Construction",
+  "establishedYear": "2011",
+  "phone": {
+    "formatted": "(931) 308-5617",
+    "raw": "9313085617"
+  },
+  "location": {
+    "cityState": "Winchester, TN"
+  },
+  "recentWorkCities": [
+    "Winchester",
+    "Decherd",
+    "Estill Springs"
+  ],
+  "reviewCities": [
+    "Winchester",
+    "Decherd"
+  ]
+}
